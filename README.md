@@ -80,18 +80,17 @@ Digital agency system
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadbinnaveed01-oss&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbinnaveed01-oss&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
-
 ## 📈 CONTRIBUTION ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadbinnaveed01-oss&theme=react-dark&hide_border=true&area=true" />
 </p>
-
+---
 ## 📫 CONNECT WITH ME
 
 🌐 Portfolio: https://muhammad-bin-naveed.vercel.app  
