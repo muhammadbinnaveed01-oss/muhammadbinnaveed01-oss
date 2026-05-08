@@ -86,21 +86,11 @@ Digital agency system
 
 ---
 
-## 🔥 CONTRIBUTION GRAPH
+## 📈 CONTRIBUTION ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
 </p>
-
----
-
-## 🏆 TROPHY CABINET
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 ## 📫 CONNECT WITH ME
 
