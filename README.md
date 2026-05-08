@@ -22,64 +22,98 @@
 
 ## 🧠 ABOUT ME
 
-```diff
-+ Full-Stack Developer (MERN + PHP)
-+ Focused on scalable system architecture
-+ Passionate about UI/UX & animations
-+ Building real-world production applications
-+ Working with local & international clients
-🚀 TECH STACK
+- 🚀 Full-Stack Developer (MERN + PHP)
+- 🏗 Focused on scalable system architecture
+- 🎨 Passionate about UI/UX & animations
+- 🌍 Building real-world production applications
+- 🤝 Working with local & international clients
 
-Frontend → React • Vite • Tailwind • Redux
-Backend → Node.js • Express • PHP
-Database → MongoDB • MySQL
-Tools → Git • GitHub • Postman • Vercel • Hostinger
+---
 
-🧊 FEATURED PROJECTS
-🖨 Click2Print Pvt Ltd
+## 🚀 TECH STACK
 
-Business printing platform
+**Frontend** → React • Vite • Tailwind • Redux  
+**Backend** → Node.js • Express • PHP  
+**Database** → MongoDB • MySQL  
+**Tools** → Git • GitHub • Postman • Vercel • Hostinger  
 
-React + PHP system
-30+ pages
-SEO optimized
+---
+
+## 🧊 FEATURED PROJECTS
+
+### 🖨 Click2Print Pvt Ltd
+Business printing platform  
+- React + PHP system  
+- 30+ service pages  
+- SEO optimized production site  
 🌐 https://click2print.pk/
-🌐 Faiz Alam Faizi Portfolio
 
-Full-stack MERN platform
+---
 
-Node.js APIs
-MongoDB integration
-SEO + GEO + AEO
+### 🌐 Faiz Alam Faizi Portfolio
+Full-stack MERN platform  
+- Node.js APIs  
+- MongoDB integration  
+- SEO + GEO + AEO optimized  
 🌐 https://faizalamfaizi.com/
-🚚 AI Transport Ltd (UK)
 
-Logistics platform
+---
 
-React frontend
-PHP backend
-SEO optimized
+### 🚚 AI Transport Ltd (UK)
+Logistics platform  
+- React frontend  
+- PHP backend  
+- SEO optimized for UK market  
 🌐 https://www.aitransportltd.co.uk/
-💼 IQX Intelligence Quotient
 
-Digital agency system
+---
 
-Lead generation engine
-Modern UI/UX
-Advanced SEO system
+### 💼 IQX Intelligence Quotient
+Digital agency system  
+- Lead generation engine  
+- Modern UI/UX  
+- Advanced SEO system  
 🌐 https://iqx.world/
-📊 GITHUB ANALYTICS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/> </p>
-🔥 CONTRIBUTION GRAPH
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" /> </p>
-🏆 TROPHY CABINET
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&row=1&column=7" /> </p>
-📫 CONNECT WITH ME
 
-🌐 Portfolio: https://muhammad-bin-naveed.vercel.app
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/muhammad-bin-naveed-236409252/
+## 📊 GITHUB ANALYTICS
 
-📧 Email: muhammadbinnaveed01@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" /> </p> <p align="center"> ⭐ Building • Scaling • Shipping • Repeating 🚀 </p> ```
+---
+
+## 🔥 CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🏆 TROPHY CABINET
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📫 CONNECT WITH ME
+
+- 🌐 Portfolio: https://muhammad-bin-naveed.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-bin-naveed-236409252/  
+- 📧 Email: muhammadbinnaveed01@gmail.com  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" />
+</p>
+
+<p align="center">
+  ⭐ Building • Scaling • Shipping • Repeating 🚀
+</p>der.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" /> </p> <p align="center"> ⭐ Building • Scaling • Shipping • Repeating 🚀 </p> ```
