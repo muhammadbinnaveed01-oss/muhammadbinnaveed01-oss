@@ -2,114 +2,46 @@
 
 🧠 About Me
 
-🔭 Building production‑level full‑stack applications
-
-🌱 Currently mastering backend architecture & scalable systems
-
-🎯 Specialized in modern UI, performance optimization & animation
-
-🌍 Working with local and international clients
-
-⚡ Transforming ideas into fast, reliable web platforms
+🔭 Full-Stack Developer building production-ready apps
+🌱 Learning backend architecture & scalable systems
+🎯 Focused on modern UI, performance & animations
+🌍 Working with local & international clients
+⚡ Turning ideas into fast, reliable web platforms
 
 🚀 Tech Stack
 
-Frontend
-
-Backend
-
-Tools & Workflow
+Frontend • Backend • Tools & Workflow
 
 📂 Featured Projects
 
 🖨 Click2Print Pvt Ltd
-
-Business Printing Platform
-
-Developed official business platform using Vite + React + PHP
-
-Built 30+ responsive service pages
-
-Secure inquiry & order management system
-
-Mobile‑first UI/UX with optimized performance
-
-Deployed on Namecheap production hosting
-
-Implemented SEO optimization for visibility
-
-WEBSITE: https://click2print.pk/
+Business printing platform with React + PHP, 30+ pages, SEO optimized
+🌐 https://click2print.pk/
 
 🌐 Faiz Alam Faizi Portfolio
-
-Full‑Stack MERN Website
-
-Node.js + Express backend APIs
-
-MongoDB database integration
-
-Responsive professional UI design
-
-Production deployment using Node hosting
-
-Implemented SEO + GEO + AEO optimization
-
-**WEBSITE: **https://faizalamfaizi.com/
+MERN stack website with APIs, MongoDB & SEO optimization
+🌐 https://faizalamfaizi.com/
 
 ✅ MERN Task Manager
-
-Authentication system
-
-CRUD operations
-
-Modern React state management
-
-REST API architecture
+Authentication • CRUD • REST APIs • Modern React state
 
 🌐 Personal Portfolio
-
-Animated developer portfolio
-
-Performance‑focused UI design
-
-Mobile responsive experience
+Animated, performance-focused developer portfolio
 
 🚚 AI Transport Ltd (UK Client)
+Logistics website with React + PHP backend & SEO
+🌐 https://www.aitransportltd.co.uk/
 
-Logistics Business Website
+💼 IQX Intelligence Quotient
+Digital agency platform with lead system & advanced SEO
+🌐 https://iqx.world/
 
-Built with Vite + React frontend
+📫 Connect
 
-PHP backend inquiry system
+🌐 Portfolio: https://muhammad-bin-naveed.vercel.app
 
-SEO targeting UK logistics market
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-bin-naveed-236409252/
 
-Performance optimized deployment
-
-**WEBSITE: **https://www.aitransportltd.co.uk/
-
-💼 IQX Intelligence Quotient (IQX World)
-
-Digital Agency Platform
-
-Modern agency website with React frontend
-
-Lead generation backend system
-
-Advanced SEO, GEO & AEO implementation
-
-Clean professional agency UI/UX
-
-WEBSITE: https://iqx.world/
-
-📊 GitHub Analytics
-
-🏆 Achievements
-
-🐍 Contribution Graph
-
-📫 Connect With Me
-
-🌐 Portfolio: https://muhammad-bin-naveed.vercel.app/#/💼 LinkedIn: https://www.linkedin.com/in/muhammad-bin-naveed-236409252/📧 Email: muhammadbinnaveed01@gmail.com
+📧 muhammadbinnaveed01@gmail.com
 
 ⭐ Building • Learning • Scaling • Shipping
