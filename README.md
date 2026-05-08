@@ -80,7 +80,7 @@ Digital agency system
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadbinnaveed01-oss&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=muhammadbinnaveed01-oss&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbinnaveed01-oss&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
