@@ -1,16 +1,115 @@
-## Hi there 👋
+👋 Hi, I'm Muhammad Bin Naveed
 
-<!--
-**muhammadbinnaveed01-oss/muhammadbinnaveed01-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 About Me
 
-Here are some ideas to get you started:
+🔭 Building production‑level full‑stack applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently mastering backend architecture & scalable systems
+
+🎯 Specialized in modern UI, performance optimization & animation
+
+🌍 Working with local and international clients
+
+⚡ Transforming ideas into fast, reliable web platforms
+
+🚀 Tech Stack
+
+Frontend
+
+Backend
+
+Tools & Workflow
+
+📂 Featured Projects
+
+🖨 Click2Print Pvt Ltd
+
+Business Printing Platform
+
+Developed official business platform using Vite + React + PHP
+
+Built 30+ responsive service pages
+
+Secure inquiry & order management system
+
+Mobile‑first UI/UX with optimized performance
+
+Deployed on Namecheap production hosting
+
+Implemented SEO optimization for visibility
+
+WEBSITE: https://click2print.pk/
+
+🌐 Faiz Alam Faizi Portfolio
+
+Full‑Stack MERN Website
+
+Node.js + Express backend APIs
+
+MongoDB database integration
+
+Responsive professional UI design
+
+Production deployment using Node hosting
+
+Implemented SEO + GEO + AEO optimization
+
+**WEBSITE: **https://faizalamfaizi.com/
+
+✅ MERN Task Manager
+
+Authentication system
+
+CRUD operations
+
+Modern React state management
+
+REST API architecture
+
+🌐 Personal Portfolio
+
+Animated developer portfolio
+
+Performance‑focused UI design
+
+Mobile responsive experience
+
+🚚 AI Transport Ltd (UK Client)
+
+Logistics Business Website
+
+Built with Vite + React frontend
+
+PHP backend inquiry system
+
+SEO targeting UK logistics market
+
+Performance optimized deployment
+
+**WEBSITE: **https://www.aitransportltd.co.uk/
+
+💼 IQX Intelligence Quotient (IQX World)
+
+Digital Agency Platform
+
+Modern agency website with React frontend
+
+Lead generation backend system
+
+Advanced SEO, GEO & AEO implementation
+
+Clean professional agency UI/UX
+
+WEBSITE: https://iqx.world/
+
+📊 GitHub Analytics
+
+🏆 Achievements
+
+🐍 Contribution Graph
+
+📫 Connect With Me
+
+🌐 Portfolio: https://muhammad-bin-naveed.vercel.app/#/💼 LinkedIn: https://www.linkedin.com/in/muhammad-bin-naveed-236409252/📧 Email: muhammadbinnaveed01@gmail.com
+
+⭐ Building • Learning • Scaling • Shipping
