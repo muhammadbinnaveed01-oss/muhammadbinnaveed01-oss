@@ -22,20 +22,20 @@
 
 ## 🧠 ABOUT ME
 
-- 🚀 Full-Stack Developer (MERN + PHP)
-- 🏗 Focused on scalable system architecture
-- 🎨 Passionate about UI/UX & animations
-- 🌍 Building real-world production applications
-- 🤝 Working with local & international clients
+🚀 Full-Stack Developer (MERN + PHP)  
+🏗 Focused on scalable system architecture  
+🎨 Passionate about UI/UX & animations  
+🌍 Building real-world production applications  
+🤝 Working with local & international clients  
 
 ---
 
 ## 🚀 TECH STACK
 
-**Frontend** → React • Vite • Tailwind • Redux  
-**Backend** → Node.js • Express • PHP  
-**Database** → MongoDB • MySQL  
-**Tools** → Git • GitHub • Postman • Vercel • Hostinger  
+**Frontend:** React • Vite • Tailwind • Redux  
+**Backend:** Node.js • Express • PHP  
+**Database:** MongoDB • MySQL  
+**Tools:** Git • GitHub • Postman • Vercel • Hostinger  
 
 ---
 
@@ -45,7 +45,7 @@
 Business printing platform  
 - React + PHP system  
 - 30+ service pages  
-- SEO optimized production site  
+- SEO optimized production system  
 🌐 https://click2print.pk/
 
 ---
@@ -80,8 +80,8 @@ Digital agency system
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -104,16 +104,12 @@ Digital agency system
 
 ## 📫 CONNECT WITH ME
 
-- 🌐 Portfolio: https://muhammad-bin-naveed.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-bin-naveed-236409252/  
-- 📧 Email: muhammadbinnaveed01@gmail.com  
+🌐 Portfolio: https://muhammad-bin-naveed.vercel.app  
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-bin-naveed-236409252/  
+📧 Email: muhammadbinnaveed01@gmail.com  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" />
+⭐ Building • Scaling • Shipping • Repeating 🚀
 </p>
-
-<p align="center">
-  ⭐ Building • Scaling • Shipping • Repeating 🚀
-</p>der.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" /> </p> <p align="center"> ⭐ Building • Scaling • Shipping • Repeating 🚀 </p> ```
