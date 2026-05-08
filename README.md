@@ -1,117 +1,85 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">👋 Hi, I'm Muhammad Bin Naveed</h1>
-
+<!-- ================= NEON 3D HEADER ================= -->
 <p align="center">
-  <b>Full-Stack Developer • MERN Specialist • UI/UX Focused Engineer</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Muhammad%20Bin%20Naveed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
-  ⚡ Building fast, scalable & production-ready web applications  
-  🌍 Working with local & international clients  
-</p>
-
----
-
-<!-- ================= BADGES ================= -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Style-UI%2FUX-orange?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Full-Stack+MERN+Developer;Building+Scalable+Web+Applications;UI%2FUX+Focused+Engineer;Performance+%2B+Animation+Driven;Turning+Ideas+Into+Digital+Products" />
 </p>
 
 ---
 
-<!-- ================= ABOUT ================= -->
-## 🧠 About Me
-
-- 🔭 Building **production-level full-stack applications**
-- 🌱 Improving **backend architecture & scalability**
-- 🎯 Specialized in **modern UI, animations & performance optimization**
-- ⚡ Turning ideas into **fast & reliable digital products**
-
----
-
-<!-- ================= TECH STACK ================= -->
-## 🚀 Tech Stack
-
-**Frontend:** React, Vite, Tailwind, Redux  
-**Backend:** Node.js, Express, PHP  
-**Database:** MongoDB, MySQL  
-**Tools:** Git, GitHub, Postman, Vercel, Hostinger  
+<!-- ================= NEON BADGES ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-00f5ff?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-39ff14?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-00ff87?style=for-the-badge&logo=mongodb&logoColor=black" />
+  <img src="https://img.shields.io/badge/UI-UX-purple?style=for-the-badge" />
+</p>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-## 📂 Featured Projects
+## 🧠 ABOUT ME
 
-<details>
-<summary>🖨 Click2Print Pvt Ltd</summary>
+```diff
++ Full-Stack Developer (MERN + PHP)
++ Focused on scalable system architecture
++ Passionate about UI/UX & animations
++ Building real-world production applications
++ Working with local & international clients
+🚀 TECH STACK
 
-- Business Printing Platform  
-- React + PHP based system  
-- 30+ responsive service pages  
-- Secure inquiry & order management  
-- SEO optimized production site  
+Frontend → React • Vite • Tailwind • Redux
+Backend → Node.js • Express • PHP
+Database → MongoDB • MySQL
+Tools → Git • GitHub • Postman • Vercel • Hostinger
 
+🧊 FEATURED PROJECTS
+🖨 Click2Print Pvt Ltd
+
+Business printing platform
+
+React + PHP system
+30+ pages
+SEO optimized
 🌐 https://click2print.pk/
-</details>
+🌐 Faiz Alam Faizi Portfolio
 
-<details>
-<summary>🌐 Faiz Alam Faizi Portfolio</summary>
+Full-stack MERN platform
 
-- MERN Stack Website  
-- Node.js + Express APIs  
-- MongoDB Integration  
-- SEO + GEO + AEO optimized  
-
+Node.js APIs
+MongoDB integration
+SEO + GEO + AEO
 🌐 https://faizalamfaizi.com/
-</details>
+🚚 AI Transport Ltd (UK)
 
-<details>
-<summary>🚚 AI Transport Ltd (UK Client)</summary>
+Logistics platform
 
-- Logistics Business Website  
-- React + PHP backend system  
-- SEO optimized for UK market  
-- Performance focused deployment  
-
+React frontend
+PHP backend
+SEO optimized
 🌐 https://www.aitransportltd.co.uk/
-</details>
+💼 IQX Intelligence Quotient
 
-<details>
-<summary>💼 IQX Intelligence Quotient</summary>
+Digital agency system
 
-- Digital Agency Platform  
-- Lead generation system  
-- Modern UI/UX design  
-- Advanced SEO architecture  
-
+Lead generation engine
+Modern UI/UX
+Advanced SEO system
 🌐 https://iqx.world/
-</details>
+📊 GITHUB ANALYTICS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/> </p>
+🔥 CONTRIBUTION GRAPH
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" /> </p>
+🏆 TROPHY CABINET
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&row=1&column=7" /> </p>
+📫 CONNECT WITH ME
 
----
+🌐 Portfolio: https://muhammad-bin-naveed.vercel.app
 
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Analytics
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-bin-naveed-236409252/
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
+📧 Email: muhammadbinnaveed01@gmail.com
 
----
-
-<!-- ================= CONTACT ================= -->
-## 📫 Connect With Me
-
-- 🌐 Portfolio: https://muhammad-bin-naveed.vercel.app
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-bin-naveed-236409252/
-- 📧 Email: muhammadbinnaveed01@gmail.com
-
----
-
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  ⭐ Building • Learning • Scaling • Shipping 🚀
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" /> </p> <p align="center"> ⭐ Building • Scaling • Shipping • Repeating 🚀 </p> ```
